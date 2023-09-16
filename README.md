@@ -9,7 +9,7 @@ This is a simple web-based implementation of the classic Rock, Paper, Scissors g
 
 ## Play the Game
 
-You can play the game by visiting the [Rock, Paper, Scissors Game](https://your-game-url.com) website.
+You can play the game by visiting the [Rock, Paper, Scissors Game](https://umarocks.github.io/RockPapereScissor/) website.
 
 ## Features
 
